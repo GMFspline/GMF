@@ -1,0 +1,9 @@
+torch
+transformers
+numpy
+geomdl
+matplotlib
+einops
+timm
+triton; platform_system != "Windows"
+causal-conv1d>=1.2.0

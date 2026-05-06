@@ -1,0 +1,11 @@
+# ninja log v7
+11	18401	1764904374239015700	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan.o	78c442fc7f298dce
+56	23915	1764904374287016000	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_fwd_fp32.o	cdcc6dfb5f6d673f
+34	24093	1764904374268017000	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_fwd_bf16.o	869b02d187df3e31
+47	24156	1764904374279017500	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_fwd_fp16.o	93707185ade52
+28	33948	1764904374259015700	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_bwd_fp32_real.o	321f44414436fbcc
+20	34742	1764904374251016800	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_bwd_fp16_real.o	4d298e2eb40856ff
+15	34951	1764904374245015800	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_bwd_bf16_real.o	1ba8f3cf9fdc716a
+24	50562	1764904374254015900	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	ba3d2d27a01687b5
+12	51099	1764904374241015200	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	8210aeb00d75c01e
+18	51415	1764904374247015900	/mnt/d/code/larmo/llmfit/openpoints/models/PCM/mamba/build/temp.linux-x86_64-cpython-312/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	827a041efece91
